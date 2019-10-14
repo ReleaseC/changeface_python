@@ -1,0 +1,13 @@
+Input:/home/siiva/桌面/face_database/user/o35En42PABW-I06MIqZiWl52lZO0/user.jpg
+Input full path:/home/siiva/桌面/face_database/user/o35En42PABW-I06MIqZiWl52lZO0/user.jpg
+Camera parameters:520.833,520.833,240,320
+Output HOG:user.hog
+Output image:user.jpg
+Output aligned directory:user_aligned
+Output csv:user.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
